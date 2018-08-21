@@ -52,10 +52,10 @@ Pilihan Kondisi
 ![alt_text](https://github.com/kevinirzam/Jobsheet1/blob/master/PilihanKondisi.PNG)
 
 
-<h1>Praktikum<h1>
+<h1>Praktikum</h1>
 Praktikum 1
 <br>
-![alt_text](https://github.com/kevinirzam/Jobsheet1/blob/master/Soal2.PNG)
+![alt_text](https://github.com/kevinirzam/Jobsheet1/blob/master/Soal1.PNG)
 
 
 Praktikum 2
