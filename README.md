@@ -51,6 +51,18 @@ Pilihan Kondisi
 <br>
 ![alt_text](https://github.com/kevinirzam/Jobsheet1/blob/master/PilihanKondisi.PNG)
 
-Soal 2
+
+<h1>Praktikum<h1>
+Praktikum 1
 <br>
 ![alt_text](https://github.com/kevinirzam/Jobsheet1/blob/master/Soal2.PNG)
+
+
+Praktikum 2
+<br>
+![alt_text](https://github.com/kevinirzam/Jobsheet1/blob/master/Soal2.PNG)
+
+Praktikum 3
+<br>
+![alt_text](https://github.com/kevinirzam/Jobsheet1/blob/master/soal3.PNG)
+
